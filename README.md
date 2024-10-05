@@ -53,9 +53,7 @@
 </div>
 
 ## 🌟 My Popular Apps
-| ![Al-Muslim Logo](https://github.com/user-attachments/assets/1e903410-36ee-4e2c-89bb-6f32485300c1) || ![Nestify Logo](https://github.com/user-attachments/assets/14660725-f41d-451f-8ab9-3d906dbfec78)
-|:-----------------------------------------------------:|:------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|
-| **[Al-Muslim](https://github.com/YousefDewidar/Al-Muslim)** | **[Bookly](https://github.com/YousefDewidar/bookly)** | **[Nestify](https://github.com/YousefDewidar/Nestify)** | **[Ai Assistant](https://github.com/YousefDewidar/ai_assistant_app)** |
+| ![Al-Muslim Logo](https://github.com/user-attachments/assets/1e903410-36ee-4e2c-89bb-6f32485300c1) || ![Nestify Logo](https://github.com/user-attachments/assets/14660725-f41d-451f-8ab9-3d906dbfec78)|
 
 <br/>
 
