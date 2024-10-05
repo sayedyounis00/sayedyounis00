@@ -53,9 +53,8 @@
 </div>
 ## 🌟 My Popular Apps 
 
-| ![Al-Muslim Logo](https://github.com/user-attachments/assets/1e903410-36ee-4e2c-89bb-6f32485300c1) | ![Nestify Logo](https://github.com/user-attachments/assets/14660725-f41d-451f-8ab9-3d906dbfec78) |
-|--|--|
-
+| <img src="https://github.com/user-attachments/assets/1e903410-36ee-4e2c-89bb-6f32485300c1" width="100"/> | <img src="https://github.com/user-attachments/assets/14660725-f41d-451f-8ab9-3d906dbfec78" width="100"/> |
+|---|---|
 
 <h3 align="left">🔥   My Stats :</h3>
 
